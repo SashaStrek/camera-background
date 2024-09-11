@@ -1,2 +1,2 @@
 # camera-background
-camera view as background in HTML
+Using Camera View as Background in HTML.
